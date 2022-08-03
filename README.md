@@ -5,6 +5,6 @@
 # This Website is created by using HTML , CSS , JAVASCRIPT,JQUREY , BOOTSTRAP,ADV. JAVA , JSP ......................
 
 # index Page
-<img src="Screenshot (591).png" class="img-fluid"><br><br>
-<img src="Screenshot (592).png" class="img-fluid"><br><br>
-<img src="Screenshot (593).png" class="img-fluid"><br><br>
+<img src="pic/Screenshot (591).png" class="img-fluid"><br><br>
+<img src="pic/Screenshot (592).png" class="img-fluid"><br><br>
+<img src="pic/Screenshot (593).png" class="img-fluid"><br><br>
